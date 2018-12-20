@@ -7,3 +7,6 @@ print("hello world")
 public static void main(String[args]){
 	print("very well")
 }
+
+Thread bird(){
+}
